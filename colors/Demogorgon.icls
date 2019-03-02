@@ -3,7 +3,7 @@
     <property name="created">2019-03-02T00:41:27</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.3.5.0.0</property>
-    <property name="modified">2019-03-02T10:31:37</property>
+    <property name="modified">2019-03-02T10:42:19</property>
     <property name="originalScheme">Darcula copy</property>
   </metaInfo>
   <colors>
@@ -124,6 +124,16 @@
       <value>
         <option name="FOREGROUND" value="ffef28" />
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="String">
+      <value>
+        <option name="FOREGROUND" value="949494" />
+      </value>
+    </option>
+    <option name="Unresolved reference access">
+      <value>
+        <option name="FOREGROUND" value="c0dcf7" />
       </value>
     </option>
     <option name="WARNING_ATTRIBUTES">
