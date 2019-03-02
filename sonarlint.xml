@@ -1,0 +1,14 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="http://sonarqube.anaplan-np.net/" />
+          <token>df93df98dfc9df9ddf9fdf9ddfccdfc9dfcbdf9bdfcbdfc9df9adfc9dfc8dfc8df9edfcedf9edfcedf93dfcbdf9bdfcfdf9ddf9adf9edf99df93df93df9edf9edfcedf98dfcedf9cdfcedfc8df9fdf9a</token>
+          <option name="name" value="Anaplan SonarQube" />
+          <organizationKey>default-organization</organizationKey>
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>
