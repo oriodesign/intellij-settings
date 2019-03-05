@@ -38,7 +38,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>95</Count>
+          <Count>102</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -199,6 +199,14 @@
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'WebEndpoint'</Description>
           <Count>26</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'whenDestinationDoe...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'whenDestinationDoe...()'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run Inspection by Name...">
