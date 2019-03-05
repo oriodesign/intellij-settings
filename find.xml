@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Project 'pfour-local'" />
-    <option name="defaultScopeName" value="Project 'pfour-local'" />
+    <option name="customScope" value="Project 'demonstrator-web-endpoint'" />
+    <option name="defaultScopeName" value="Project 'demonstrator-web-endpoint'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'pfour-local'" />
+    <option name="SEARCH_SCOPE" value="Project 'demonstrator-web-endpoint'" />
   </component>
 </application>
