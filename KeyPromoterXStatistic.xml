@@ -62,7 +62,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>280</Count>
+          <Count>281</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -161,6 +161,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'All in demonstrator-web-endpoint_test (4)'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'All in demonstrator-web-endpoint_test (4)'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'All in demonstrator-web-endpoint_test'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -222,7 +230,15 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'All Tests'</Description>
-          <Count>23</Count>
+          <Count>24</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'All in demonstrator-web-endpoint_test (4)'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'All in demonstrator-web-endpoint_test (4)'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All in demonstrator-web-endpoint_test'">
@@ -278,7 +294,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'WebEndpoint'</Description>
-          <Count>50</Count>
+          <Count>51</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'data-service:data-service [bootRun]'">
