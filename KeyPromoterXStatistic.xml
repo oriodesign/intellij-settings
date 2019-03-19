@@ -70,7 +70,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>326</Count>
+          <Count>330</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -102,7 +102,7 @@
           <IdeaActionID>FindInPath</IdeaActionID>
           <ShortCut>'⇧⌘F'</ShortCut>
           <Description>Find in Path...</Description>
-          <Count>59</Count>
+          <Count>64</Count>
         </Item>
       </Statistic>
       <Statistic Action="Generate...">
@@ -158,6 +158,14 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'⇧F6'</ShortCut>
           <Description>Rename...</Description>
+          <Count>11</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Replace in Path...">
+        <Item>
+          <IdeaActionID>ReplaceInPath</IdeaActionID>
+          <ShortCut>'⇧⌘R'</ShortCut>
+          <Description>Replace in Path...</Description>
           <Count>6</Count>
         </Item>
       </Statistic>
@@ -254,7 +262,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'All Tests'</Description>
-          <Count>31</Count>
+          <Count>35</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All in demonstrator-web-endpoint_test (3)'">
@@ -302,7 +310,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'GrpcServer'</Description>
-          <Count>8</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'PipelinePlayground'">
@@ -326,7 +334,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'WebEndpoint'</Description>
-          <Count>109</Count>
+          <Count>111</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'can_translate_a_da...()'">
@@ -342,7 +350,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'data-service:data-service [bootRun]'</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'pipeline-playground [build]'">
