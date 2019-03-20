@@ -65,6 +65,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'setCellValueComman...()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'setCellValueComman...()'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'whenInit_thenSendC...()'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -78,7 +86,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>346</Count>
+          <Count>348</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -249,6 +257,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'WebMessagesModuleTest.setCellValueCommand_serializesAndDeserializes'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'WebMessagesModuleTest.setCellValueCommand_serializesAndDeserializes'</Description>
+          <Count>8</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'pipeline-playground [yarn]'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -262,7 +278,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>207</Count>
+          <Count>219</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -353,6 +369,14 @@
           <Count>120</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'WebMessagesModuleTest'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'WebMessagesModuleTest'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'can_translate_a_da...()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -375,6 +399,14 @@
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'pipeline-playground [build]'</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'setCellValueComman...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'setCellValueComman...()'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'whenDestinationDoe...()'">
@@ -470,7 +502,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>83</Count>
+          <Count>86</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
