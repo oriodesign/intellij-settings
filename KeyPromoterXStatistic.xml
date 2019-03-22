@@ -86,7 +86,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>356</Count>
+          <Count>360</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -118,7 +118,7 @@
           <IdeaActionID>FindInPath</IdeaActionID>
           <ShortCut>'⇧⌘F'</ShortCut>
           <Description>Find in Path...</Description>
-          <Count>71</Count>
+          <Count>74</Count>
         </Item>
       </Statistic>
       <Statistic Action="Generate...">
@@ -241,6 +241,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'ModuleDetailWidgetTest.whenReceiveSetCellValue_thenCallCommandHandler'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'ModuleDetailWidgetTest.whenReceiveSetCellValue_thenCallCommandHandler'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'ResponseTranslatorTest.can_translate_a_data_service_response_to_a_gridUpdated_web_message'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -294,7 +302,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'All Tests'</Description>
-          <Count>40</Count>
+          <Count>42</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All in demonstrator-web-endpoint_test (3)'">
@@ -345,6 +353,14 @@
           <Count>16</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'ModuleDetailWidgetTest'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'ModuleDetailWidgetTest'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'PipelinePlayground'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -385,6 +401,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'converts_requests_...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'converts_requests_...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'data-service:data-service [bootRun]'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -415,6 +439,14 @@
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'whenDestinationDoe...()'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'whenReceiveSetCell...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'whenReceiveSetCell...()'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run Inspection by Name...">
