@@ -102,7 +102,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>601</Count>
+          <Count>604</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -134,7 +134,7 @@
           <IdeaActionID>FindInPath</IdeaActionID>
           <ShortCut>'⇧⌘F'</ShortCut>
           <Description>Find in Path...</Description>
-          <Count>115</Count>
+          <Count>118</Count>
         </Item>
       </Statistic>
       <Statistic Action="Generate...">
