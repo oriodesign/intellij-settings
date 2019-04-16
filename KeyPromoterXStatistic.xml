@@ -102,7 +102,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>616</Count>
+          <Count>622</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
