@@ -102,7 +102,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>604</Count>
+          <Count>605</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -465,6 +465,22 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'definition - integration tests'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'definition - integration tests'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'definition - unit tests'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'definition - unit tests'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'has a help link'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -494,6 +510,14 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'setCellValueComman...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'view service - unit tests'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'view service - unit tests'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -575,6 +599,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'WebEndpoint'</Description>
           <Count>22</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'definition - integration tests'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'definition - integration tests'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'pipeline-playground [yarn]'">
