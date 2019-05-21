@@ -14,5 +14,6 @@
     <mask>*.js</mask>
     <mask>*.scss</mask>
     <mask>*.feature</mask>
+    <mask>reducer.js</mask>
   </component>
 </application>
