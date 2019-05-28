@@ -118,7 +118,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>836</Count>
+          <Count>874</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -150,7 +150,7 @@
           <IdeaActionID>FindInPath</IdeaActionID>
           <ShortCut>'⇧⌘F'</ShortCut>
           <Description>Find in Path...</Description>
-          <Count>133</Count>
+          <Count>134</Count>
         </Item>
       </Statistic>
       <Statistic Action="Generate...">
@@ -247,6 +247,14 @@
           <ShortCut>'⇧⌘R'</ShortCut>
           <Description>Replace in Path...</Description>
           <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Replace...">
+        <Item>
+          <IdeaActionID>Replace</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Replace...</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun">
@@ -374,7 +382,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌘4'</ShortCut>
           <Description>Run</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All Tests'">
@@ -382,7 +390,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'All Tests'</Description>
-          <Count>43</Count>
+          <Count>48</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All in demonstrator-web-endpoint_test (3)'">
@@ -457,6 +465,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'TextWidgetTest'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'TextWidgetTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'WebEndpoint'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -502,7 +518,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'definition - integration tests'</Description>
-          <Count>4</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'definition - unit tests'">
@@ -609,6 +625,30 @@
           <Count>45</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'All in definition_integrationTest (1)'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'All in definition_integrationTest (1)'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'All in definition_integrationTest (2)'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'All in definition_integrationTest (2)'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'All in definition_integrationTest'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'All in definition_integrationTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'BankAccountTest'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -646,6 +686,22 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'definition - integration tests'</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'definition [check]'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'definition [check]'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'definition [integrationTest]'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'definition [integrationTest]'</Description>
           <Count>2</Count>
         </Item>
       </Statistic>
@@ -686,7 +742,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
