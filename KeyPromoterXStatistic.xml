@@ -710,7 +710,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'commentservice [org.springframework.boot:spring-boot-maven-plugin:1.5.13.RELEASE:run]'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'commentservice [org.springframework.boot:spring-boot-maven-plugin:1.5.13.RELEASE:start]'">
