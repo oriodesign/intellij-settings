@@ -361,6 +361,14 @@
           <Count>8</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'commentservice [org.springframework.boot:spring-boot-maven-plugin:1.5.13.RELEASE:run]'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'commentservice [org.springframework.boot:spring-boot-maven-plugin:1.5.13.RELEASE:run]'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'commentservice [org.springframework.boot:spring-boot-maven-plugin:1.5.13.RELEASE:start]'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -710,7 +718,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'commentservice [org.springframework.boot:spring-boot-maven-plugin:1.5.13.RELEASE:run]'</Description>
-          <Count>2</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'commentservice [org.springframework.boot:spring-boot-maven-plugin:1.5.13.RELEASE:start]'">
