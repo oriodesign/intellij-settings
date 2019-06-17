@@ -118,7 +118,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>974</Count>
+          <Count>976</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -359,6 +359,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'WebMessagesModuleTest.setCellValueCommand_serializesAndDeserializes'</Description>
           <Count>8</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'commentservice [org.springframework.boot:spring-boot-maven-plugin:1.5.13.RELEASE:start]'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'commentservice [org.springframework.boot:spring-boot-maven-plugin:1.5.13.RELEASE:start]'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'definition - integration tests'">
@@ -695,6 +703,22 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'WebEndpoint'</Description>
           <Count>22</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'commentservice [org.springframework.boot:spring-boot-maven-plugin:1.5.13.RELEASE:run]'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'commentservice [org.springframework.boot:spring-boot-maven-plugin:1.5.13.RELEASE:run]'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'commentservice [org.springframework.boot:spring-boot-maven-plugin:1.5.13.RELEASE:start]'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'commentservice [org.springframework.boot:spring-boot-maven-plugin:1.5.13.RELEASE:start]'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'definition - integration tests'">
