@@ -729,6 +729,14 @@
           <Count>22</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'api-services [clean]'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'api-services [clean]'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'commentservice [org.springframework.boot:spring-boot-maven-plugin:1.5.13.RELEASE:run]'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
