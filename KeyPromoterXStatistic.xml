@@ -174,7 +174,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1218</Count>
+          <Count>1229</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -415,6 +415,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'JobsTest'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'JobsTest.canStartAPendingJob'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'JobsTest.canStartAPendingJob'</Description>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ModuleDetailWidgetTest.whenReceiveSetCellValue_thenCallCommandHandler'">
@@ -663,6 +671,14 @@
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'WebMessagesModuleTest'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'canStartAPendingJob()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'canStartAPendingJob()'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'can_translate_a_da...()'">
