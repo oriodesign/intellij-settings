@@ -174,7 +174,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1213</Count>
+          <Count>1218</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -409,6 +409,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'JobsTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'JobsTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'ModuleDetailWidgetTest.whenReceiveSetCellValue_thenCallCommandHandler'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -599,6 +607,14 @@
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'GrpcServer'</Description>
           <Count>18</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'JobsTest'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'JobsTest'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ModuleDetailWidgetTest'">
