@@ -174,7 +174,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1238</Count>
+          <Count>1239</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -686,6 +686,14 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'can_translate_a_da...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'cannotStartAJobTwice()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'cannotStartAJobTwice()'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
