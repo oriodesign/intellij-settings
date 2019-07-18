@@ -222,7 +222,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1402</Count>
+          <Count>1414</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -447,6 +447,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'CalcTests.can_make_a_translated_response_with_simple_engine'</Description>
           <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'CloneAppTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'CloneAppTest'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'CloneAppTest.POST - 200 copies categories belonging to an app'">
@@ -726,7 +734,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'CloneAppTest'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'CommentServiceApplication'">
