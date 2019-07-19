@@ -246,7 +246,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1433</Count>
+          <Count>1445</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -478,6 +478,22 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'CloneAppTest'</Description>
+          <Count>8</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'CloneAppTest.GET - 200 gets job by guid'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'CloneAppTest.GET - 200 gets job by guid'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'CloneAppTest.GET - status '">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'CloneAppTest.GET - status '</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -801,6 +817,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'GET - status ()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'GET - status ()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'GET deleted apps -...()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -855,6 +879,14 @@
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'POST - 200 copies ...()'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'POST - 200 does co...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'POST - 200 does co...()'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'POST - 400 if inva...()'">
@@ -1217,6 +1249,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'CloneAppTest'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'CloneAppTest'</Description>
+          <Count>10</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'CommentServiceApplication'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -1374,7 +1414,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>141</Count>
+          <Count>144</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
