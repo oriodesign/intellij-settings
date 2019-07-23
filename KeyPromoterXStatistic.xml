@@ -89,6 +89,14 @@
           <Count>12</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'Definition'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'Definition'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'GET - 404 gets job...()'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -262,7 +270,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1577</Count>
+          <Count>1585</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -742,7 +750,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>388</Count>
+          <Count>392</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -1230,7 +1238,7 @@
           <IdeaActionID>StepInto</IdeaActionID>
           <ShortCut>'F7'</ShortCut>
           <Description>Step Into</Description>
-          <Count>62</Count>
+          <Count>63</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Out">
@@ -1246,7 +1254,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>188</Count>
+          <Count>206</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'All in definition_integrationTest (1)'">
@@ -1454,7 +1462,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>161</Count>
+          <Count>166</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
