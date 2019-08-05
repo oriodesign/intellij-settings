@@ -121,6 +121,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'POST - 200 clones ...()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'POST - 200 clones ...()'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'POST - 200 copies ...()'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -294,7 +302,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1782</Count>
+          <Count>1800</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -609,6 +617,30 @@
           <Count>7</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'ClonePageTest.POST - 200 clones a grid page with forms'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'ClonePageTest.POST - 200 clones a grid page with forms'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'ClonePageTest.POST - 200 clones a grid page with no pages or categories'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'ClonePageTest.POST - 200 clones a grid page with no pages or categories'</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'ClonePageTest.POST - 200 clones a page with no pages or categories'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'ClonePageTest.POST - 200 clones a page with no pages or categories'</Description>
+          <Count>14</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'ConsistencyZoneListWidgetTest.whenInit_thenSendConsistencyZoneListUpdated'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -822,7 +854,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>778</Count>
+          <Count>795</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -991,6 +1023,14 @@
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'ModuleDetailWidgetTest'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'POST - 200 clones ...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'POST - 200 clones ...()'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'POST - 200 copies ...()'">
@@ -1334,7 +1374,7 @@
           <IdeaActionID>StepInto</IdeaActionID>
           <ShortCut>'F7'</ShortCut>
           <Description>Step Into</Description>
-          <Count>67</Count>
+          <Count>69</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Out">
@@ -1350,7 +1390,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>861</Count>
+          <Count>919</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'All in definition_integrationTest (1)'">
@@ -1406,6 +1446,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'CloneAppTest.POST - 200 copies categories belonging to an app'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'ClonePageTest.POST - 200 clones a grid page with no pages or categories'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'ClonePageTest.POST - 200 clones a grid page with no pages or categories'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -1566,7 +1614,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>222</Count>
+          <Count>233</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
