@@ -145,6 +145,14 @@
           <Count>5</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'POST - 400 if name...()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'POST - 400 if name...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'POST - 400 if targ...()'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -302,7 +310,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1820</Count>
+          <Count>1824</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -655,6 +663,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'ClonePageTest.POST - 200 copies view definitions'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'ClonePageTest.POST - 400 if name already exists'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'ClonePageTest.POST - 400 if name already exists'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ConsistencyZoneListWidgetTest.whenInit_thenSendConsistencyZoneListUpdated'">
