@@ -334,7 +334,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1894</Count>
+          <Count>1897</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -742,7 +742,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'ClonePageTest.POST - 200 copies view definitions'</Description>
-          <Count>5</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ClonePageTest.POST - 400 if name already exists'">
