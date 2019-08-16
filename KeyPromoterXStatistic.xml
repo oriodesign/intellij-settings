@@ -289,6 +289,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'it repoints a board()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'it repoints a board()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'list()'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -366,7 +374,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2111</Count>
+          <Count>2121</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -881,6 +889,30 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'RepointPageHandlerTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'RepointPageHandlerTest'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'RepointPageHandlerTest.it repoints a board'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'RepointPageHandlerTest.it repoints a board'</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'RepointPageHandlerTest.it reverts the view in case of error'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'RepointPageHandlerTest.it reverts the view in case of error'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'RepointPageTest.POST 200 - repoints a board page'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -895,6 +927,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'RepointPageTest.POST 200 - repoints a grid page (1)'</Description>
           <Count>12</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'Rerun Failed Tests'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'Rerun Failed Tests'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ResponseTranslatorTest.can_translate_a_data_service_response_to_a_gridUpdated_web_message'">
@@ -1030,7 +1070,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>885</Count>
+          <Count>912</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -1321,6 +1361,14 @@
           <Count>21</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'RepointPageHandlerTest'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'RepointPageHandlerTest'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'SubscriptionServiceServer'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -1481,12 +1529,36 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'it repoints a board()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'it repoints a board()'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'it repoints a grid...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'it repoints a grid...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'it returns dates f...()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'it returns dates f...()'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'it reverts the vie...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'it reverts the vie...()'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'it throws exceptio...()'">
@@ -1694,7 +1766,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>1283</Count>
+          <Count>1292</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'All in definition_integrationTest (1)'">
@@ -1918,7 +1990,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>275</Count>
+          <Count>284</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
@@ -1934,7 +2006,7 @@
           <IdeaActionID>ViewBreakpoints</IdeaActionID>
           <ShortCut>'⇧⌘F8'</ShortCut>
           <Description>View Breakpoints...</Description>
-          <Count>7</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Zoom In">
