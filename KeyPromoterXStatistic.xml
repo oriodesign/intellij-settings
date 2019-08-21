@@ -438,7 +438,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>GoTo</Description>
-          <Count>48</Count>
+          <Count>49</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -558,7 +558,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'⇧F6'</ShortCut>
           <Description>Rename...</Description>
-          <Count>33</Count>
+          <Count>34</Count>
         </Item>
       </Statistic>
       <Statistic Action="Replace in Path...">
@@ -927,6 +927,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'RepointPageHandlerTest.it repoints a board'</Description>
           <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'RepointPageHandlerTest.it repoints a grid page using the RepointGridService'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'RepointPageHandlerTest.it repoints a grid page using the RepointGridService'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'RepointPageHandlerTest.it repoints successfully a board'">
@@ -1585,6 +1593,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'it repoints a boar...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'it repoints a boar...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'it repoints a board()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -1598,7 +1614,15 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'it repoints a grid...()'</Description>
-          <Count>1</Count>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'it repoints succes...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'it repoints succes...()'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'it returns dates f...()'">
