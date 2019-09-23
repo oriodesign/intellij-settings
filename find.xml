@@ -16,8 +16,8 @@
     <mask>*.feature</mask>
     <mask>reducer.js</mask>
     <mask>*.scss</mask>
-    <mask>*.ts</mask>
     <mask>*.js</mask>
     <mask>thunks.js</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
