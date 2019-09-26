@@ -19,5 +19,6 @@
     <mask>thunks.js</mask>
     <mask>*.ts</mask>
     <mask>*.js</mask>
+    <mask>*Controller.kt</mask>
   </component>
 </application>
