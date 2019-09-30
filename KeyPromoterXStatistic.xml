@@ -486,7 +486,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>GoTo</Description>
-          <Count>651</Count>
+          <Count>655</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -542,7 +542,7 @@
           <IdeaActionID>Move</IdeaActionID>
           <ShortCut>'F6'</ShortCut>
           <Description>Move...</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Open Library Settings">
@@ -894,6 +894,14 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'ConsistencyZoneListWidgetTest.whenInit_thenSendConsistencyZoneListUpdated'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'FormTest.clones a form when it's repointed to a new model'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'FormTest.clones a form when it's repointed to a new model'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -1647,6 +1655,14 @@
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'clone returns a cl...()'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'clones a form when...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'clones a form when...()'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'converts_requests_...()'">
