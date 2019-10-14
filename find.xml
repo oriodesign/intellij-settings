@@ -23,5 +23,6 @@
     <mask>*educer.js</mask>
     <mask>*stories.js</mask>
     <mask>*.scss</mask>
+    <mask>*.tsx</mask>
   </component>
 </application>
