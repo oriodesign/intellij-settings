@@ -1334,7 +1334,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'CloneGridPageServiceTest'</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ClonePageTest'">
@@ -1575,6 +1575,14 @@
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'SubscriptionServiceServer'</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Tests in 'com.anaplan.dashvis.definitionservice.endpoints.clonepage''">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'Tests in 'com.anaplan.dashvis.definitionservice.endpoints.clonepage''</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'TextWidgetTest'">
