@@ -5,6 +5,7 @@
     <option name="preserveCase" value="true" />
     <option name="PRESERVE_CASE_REPLACE" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.ts" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -16,14 +17,14 @@
     <mask>*.feature</mask>
     <mask>reducer.js</mask>
     <mask>thunks.js</mask>
-    <mask>*.ts</mask>
     <mask>*.js</mask>
     <mask>*Controller.kt</mask>
     <mask>*.kt</mask>
     <mask>*educer.js</mask>
     <mask>*stories.js</mask>
     <mask>*.scss</mask>
-    <mask>*.tsx</mask>
     <mask>*.yml</mask>
+    <mask>*.tsx</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
