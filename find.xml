@@ -24,5 +24,6 @@
     <mask>*.tsx</mask>
     <mask>*.ts</mask>
     <mask>thunks.ts</mask>
+    <mask>package.json</mask>
   </component>
 </application>
