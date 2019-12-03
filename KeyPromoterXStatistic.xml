@@ -1262,7 +1262,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1070</Count>
+          <Count>1080</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -2118,7 +2118,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>1600</Count>
+          <Count>1664</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'All in definition_integrationTest (1)'">
