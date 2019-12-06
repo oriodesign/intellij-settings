@@ -510,7 +510,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>GoTo</Description>
-          <Count>1543</Count>
+          <Count>1544</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -1262,7 +1262,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1339</Count>
+          <Count>1343</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
