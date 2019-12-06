@@ -1137,6 +1137,14 @@
           <Count>7</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'SamlFilterTest.processSamlResponseNoSvcIdNoSsoServerGuid'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'SamlFilterTest.processSamlResponseNoSvcIdNoSsoServerGuid'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'TestGlueServicesClient.testPublishRequest'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -1270,7 +1278,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1343</Count>
+          <Count>1348</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -2110,7 +2118,7 @@
           <IdeaActionID>StepInto</IdeaActionID>
           <ShortCut>'F7'</ShortCut>
           <Description>Step Into</Description>
-          <Count>97</Count>
+          <Count>99</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Out">
@@ -2126,7 +2134,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>2027</Count>
+          <Count>2057</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'All in definition_integrationTest (1)'">
@@ -2382,7 +2390,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>365</Count>
+          <Count>368</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
