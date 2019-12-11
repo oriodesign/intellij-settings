@@ -5,6 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.yml" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -22,11 +23,11 @@
     <mask>*educer.js</mask>
     <mask>*stories.js</mask>
     <mask>*.scss</mask>
-    <mask>*.yml</mask>
     <mask>*.tsx</mask>
     <mask>*.ts</mask>
     <mask>thunks.ts</mask>
     <mask>package.json</mask>
     <mask>external-service-config.yaml</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
