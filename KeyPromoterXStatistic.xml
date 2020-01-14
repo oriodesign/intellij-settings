@@ -1705,6 +1705,14 @@
           <Count>47</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'UserSuggestServiceTest'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'UserSuggestServiceTest'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'ValidateModelMappingsTest'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
