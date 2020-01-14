@@ -3,7 +3,11 @@
     <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="20" />
     <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="20" />
   </JavaCodeStyleSettings>
-  <TypeScriptCodeStyleSettings>
+  <JetCodeStyleSettings>
+    <option name="NAME_COUNT_TO_USE_STAR_IMPORT" value="2147483647" />
+    <option name="NAME_COUNT_TO_USE_STAR_IMPORT_FOR_MEMBERS" value="2147483647" />
+  </JetCodeStyleSettings>
+  <TypeScriptCodeStyleSettings version="0">
     <option name="USE_DOUBLE_QUOTES" value="false" />
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
   </TypeScriptCodeStyleSettings>
