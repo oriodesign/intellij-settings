@@ -302,7 +302,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'Tomcat 7'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Tomcat'">
@@ -1382,7 +1382,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>2120</Count>
+          <Count>2146</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -2326,7 +2326,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>3452</Count>
+          <Count>3545</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'All in definition_integrationTest (1)'">
