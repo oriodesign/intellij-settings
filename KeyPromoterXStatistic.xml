@@ -1769,6 +1769,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'TestManagerHomePage.testLogoutLink'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'TestManagerHomePage.testLogoutLink'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'Tests in 'com.anaplan.dashvis.definitionservice.endpoints.clonepage''">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -2159,6 +2167,14 @@
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 't()'</Description>
           <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'testLogoutLink()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'testLogoutLink()'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'testPublishRequest()'">
