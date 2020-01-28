@@ -566,7 +566,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>GoTo</Description>
-          <Count>1994</Count>
+          <Count>1997</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
