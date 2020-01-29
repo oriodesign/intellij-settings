@@ -566,7 +566,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>GoTo</Description>
-          <Count>1997</Count>
+          <Count>1999</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -2167,6 +2167,14 @@
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 't()'</Description>
           <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'testAnaplanLogoOrTitle()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'testAnaplanLogoOrTitle()'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'testLogoutLink()'">
