@@ -582,7 +582,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>GoTo</Description>
-          <Count>2094</Count>
+          <Count>2095</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -2374,7 +2374,7 @@
           <IdeaActionID>Vcs.Log.ShowAllAffected</IdeaActionID>
           <ShortCut>'⌃⌘A'</ShortCut>
           <Description>Show All Affected Files</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Dependencies...">
