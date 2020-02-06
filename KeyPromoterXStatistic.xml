@@ -590,7 +590,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>GoTo</Description>
-          <Count>2107</Count>
+          <Count>2113</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -1809,6 +1809,14 @@
           <Count>5</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'SsoServiceTest'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'SsoServiceTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'SsoTest'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -2065,6 +2073,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'emptyListIsReturne...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'emptyListIsReturne...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'getActionElements ...()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -2209,6 +2225,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'selectedCustomerIs...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'selectedCustomerIs...()'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'setCellValueComman...()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -2311,6 +2335,14 @@
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'transitionFromSsoS...()'</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'usersCustomerIdIsU...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'usersCustomerIdIsU...()'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'view service - unit tests'">
