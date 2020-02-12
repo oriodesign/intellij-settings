@@ -1,9 +1,0 @@
-<application>
-  <component name="CodeFoldingSettings">
-    <option name="COLLAPSE_IMPORTS" value="false" />
-  </component>
-  <component name="CodeInsightSettings">
-    <option name="SHOW_PARAMETER_NAME_HINTS_ON_COMPLETION" value="true" />
-    <EXCLUDED_PACKAGE NAME="java.util.function.Supplier" />
-  </component>
-</application>
