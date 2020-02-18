@@ -5,7 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="build.gradle.kts" />
+    <option name="FILE_MASK" value="*.ts" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -23,7 +23,6 @@
     <mask>*educer.js</mask>
     <mask>*stories.js</mask>
     <mask>*.scss</mask>
-    <mask>*.ts</mask>
     <mask>thunks.ts</mask>
     <mask>package.json</mask>
     <mask>external-service-config.yaml</mask>
@@ -33,5 +32,6 @@
     <mask>*Container.test.tsx</mask>
     <mask>*.test.tsx</mask>
     <mask>build.gradle.kts</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
