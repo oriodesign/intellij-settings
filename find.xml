@@ -31,5 +31,6 @@
     <mask>*.tsx</mask>
     <mask>*.stories.tsx</mask>
     <mask>*.xml</mask>
+    <mask>*.*</mask>
   </component>
 </application>
