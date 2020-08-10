@@ -3,7 +3,9 @@
     <extensionMap>
       <mapping pattern="Jenkinsfile" type="Groovy" />
       <mapping pattern="Jenkinsfile.deploy" type="Groovy" />
+      <mapping ext="e2e" type="Groovy" />
       <mapping ext="qa" type="Groovy" />
+      <mapping ext="smoke" type="Groovy" />
       <removed_mapping pattern="Jenkinsfile" approved="true" type="Jenkins file" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
