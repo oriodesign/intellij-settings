@@ -4,7 +4,9 @@
       <blacklist language="TypeScript" />
       <blacklist language="Java" />
       <blacklist language="Groovy" />
-      <blacklist language="Kotlin" />
+      <blacklist language="Kotlin">
+        <added pattern="org.springframework.messaging.simp.SimpMessagingTemplate.convertAndSend(destination,payload)" />
+      </blacklist>
     </blacklists>
     <option id="SHOW_PROPERTY_HINT" value="true" />
     <option id="java.build.like.method" value="false" />
