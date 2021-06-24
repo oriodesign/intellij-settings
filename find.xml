@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.as</mask>
+    <option name="FILE_MASK" value="*" />
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.feature</mask>
@@ -33,5 +33,6 @@
     <mask>*.yaml</mask>
     <mask>Jenksinfile</mask>
     <mask>Jenkinsfile*</mask>
+    <mask>*</mask>
   </component>
 </application>
