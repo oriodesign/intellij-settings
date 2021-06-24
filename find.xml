@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.feature</mask>
@@ -27,12 +27,12 @@
     <mask>*.*</mask>
     <mask>*Test.kt</mask>
     <mask>*Controller.kt</mask>
-    <mask>*.js</mask>
     <mask>*.yml</mask>
     <mask>*reducer.ts</mask>
     <mask>*.yaml</mask>
     <mask>Jenksinfile</mask>
     <mask>Jenkinsfile*</mask>
     <mask>*</mask>
+    <mask>*.js</mask>
   </component>
 </application>
